@@ -5,7 +5,7 @@ ruby '1.9.3'
 gem 'rails', '4.0.3'
 
 # Attention a la version ici!
-gem 'pg', "~> 0.17.1"
+#em 'pg', "~> 0.17.1"
 
 # Requis par heroku
 gem 'rails_12factor'
